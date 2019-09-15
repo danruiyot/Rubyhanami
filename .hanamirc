@@ -1,0 +1,3 @@
+project=rubything
+test=rspec
+template=erb
