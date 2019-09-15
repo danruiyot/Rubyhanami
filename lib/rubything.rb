@@ -1,0 +1,2 @@
+module Rubything
+end
