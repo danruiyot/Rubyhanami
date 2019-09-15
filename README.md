@@ -32,3 +32,4 @@ How to prepare (create and migrate) DB for `development` and `test` environments
 
 Explore Hanami [guides](https://guides.hanamirb.org/), [API docs](http://docs.hanamirb.org/1.3.2/), or jump in [chat](http://chat.hanamirb.org) for help. Enjoy! 🌸
 # windowspcapp
+# rubyapp
